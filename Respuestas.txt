@@ -1,0 +1,3 @@
+a- La forma de actualizar el repo para que este igual que el
+ fork es usando el comando "git pull upstream -conElNombreDeLaRama-"
+b- No, tira un error.
