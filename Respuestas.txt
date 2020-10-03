@@ -3,3 +3,13 @@ a- La forma de actualizar el repo para que este igual que el
 b- No, tira un error. fatal: remote upstream already exists.
 c- no, tira errror
 d- se fucionan, y puede dar conflicto
+e- Guzman Eric
+Limachi Ramos Sergio Ariel
+Sanchez Matias
+fork
+git clone
+git remote add upstream https://github.com/xaxwtf/TP_SO_i2_102
+git fetch upstream
+git checkout master
+git rebase upstream/master
+git push origin master
